@@ -7,7 +7,7 @@
 
 🎓 Recently graduated with a BSc in Computer Science, I'm always curious and eager to learn.
 
-💻 Front-End Developer with a focus on React.js
+💻 Full Stack Developer (Front-end:- React,Nextjs,Shadcn) | (Back-End:- Nextjs,Node,Express)
 
 📧 Email: - Mr.ayush1125@gmail.com
 
